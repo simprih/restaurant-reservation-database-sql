@@ -43,3 +43,7 @@ The database was structured to reflect real-world operational needs:
 - SQL
 - Relational database design
 - Constraint-based data integrity enforcement
+
+## Entity Relationship Diagram
+
+![ERD](erd.png)
