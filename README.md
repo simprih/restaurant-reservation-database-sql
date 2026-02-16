@@ -1,0 +1,16 @@
+-- Project name: Adria Bar Restaurant
+--
+-- The Adria Restaurant Database, Reservation Handling Part
+--
+-- This database describes a real waterfront restaurant located in Darling Harbour in Sydney.
+-- It focuses on the reservation and private events handling work: taking booking requests, noting the customers' details,
+-- when they plan to arrive and how many seats they need.
+--
+-- Some bookings are just a couple who want to be sure they have a table.
+-- Others are private occasions such as birthdays or company functions. For these special reservations,
+-- the system treats them as events. This way, it is possible to enter the event details and assign
+-- specific team members to it, such as runners, waiters, and a manager if needed.
+--
+-- Tables can be available or occupied, and the team can quickly see upcoming bookings by time.
+-- The goal is simple: keep track of guests and special occasions so that the restaurant can
+-- prepare the right tables and staff at the right time.
